@@ -1,0 +1,9 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="background-day.png" x="0" y="114" width="288" height="512"/>
+	<SubTexture name="base.png" x="0" y="0" width="336" height="112"/>
+	<SubTexture name="gameover.png" x="0" y="628" width="192" height="42"/>
+	<SubTexture name="pipe-green.png" x="0" y="672" width="52" height="320"/>
+	<SubTexture name="yellowbird-downflap.png" x="54" y="672" width="34" height="24"/>
+	<SubTexture name="yellowbird-midflap.png" x="36" y="994" width="34" height="24"/>
+	<SubTexture name="yellowbird-upflap.png" x="0" y="994" width="34" height="24"/>
+</TextureAtlas>
