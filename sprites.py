@@ -91,7 +91,6 @@ class Pipes(pg.sprite.Sprite):
         self.rect = self.image.get_rect()
         self.rect.y = y
         self.rect.x = distance
-  
 class Pipes_up(pg.sprite.Sprite):
     def __init__(self, game, distance, y):
         self._layer = ENV_LAYER

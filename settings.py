@@ -11,9 +11,10 @@ SPRITES = 'sprites.png'
 FPS = 60
 PLAYER_JUMP = 12
 #colors
-
+FONT_NAME = 'leelawadeeuisemilight'
 BLACK = (0,0,0)
 WHITE = (255,255,255)
+RGBA = (0,0,0,50)
 
 PLAYER_GRAVITY = 0.8
 P_LAYER = 5
